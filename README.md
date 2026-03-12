@@ -66,9 +66,11 @@ The 2022 trend consistently remains lower than 2021, proving an overall improvem
 **🛠️ Technical Implementation (Power BI & DAX)**
 
 
+
 To achieve these insights, I implemented several advanced measures and data modeling techniques:
 
 **1. DAX Measures Created**
+
 
 **Time Intelligence**: Used TOTALYTD and SAMEPERIODLASTYEAR to compare CY vs. PY metrics.
 
@@ -76,12 +78,17 @@ To achieve these insights, I implemented several advanced measures and data mode
 
 **Dynamic Titles**: Created measures to update chart titles based on user filtering.
 
-2. Data Transformation (Power Query)
-Cleaned and formatted raw accident data.
 
-Created a custom Calendar Table for accurate time-series analysis.
 
-Grouped vehicle types and road conditions for better categorization.
+
+**2. Data Transformation (Power Query)**
+
+
+. Cleaned and formatted raw accident data.
+
+. Created a custom Calendar Table for accurate time-series analysis.
+
+. Grouped vehicle types and road conditions for better categorization.
 
 ************************************************************************************************
 
@@ -111,5 +118,28 @@ Would you like me to help you write the specific DAX code for the "YoY Growth" o
 
 
 ************************************************************************************************
+
+**🖥️ Dashboard Preview**
+
+
+
+** 📊 Visualizing the Data**
+
+
+Below is the interactive Road Accident Analysis Dashboard. 
+
+It is divided into three main sections:
+
+**Global KPIs**
+
+**Casualty Trends**
+
+ **Environmental Factors** (Weather, Road Type, and Light Conditions).
+
+
+
+
+<img width="1334" height="740" alt="Power BI Desktop 3_12_2026 8_52_36 PM" src="https://github.com/user-attachments/assets/df8ecc8c-f365-4c99-8a15-cf2fb3fab4ce" />
+
 
 
